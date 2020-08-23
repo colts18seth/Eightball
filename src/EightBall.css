@@ -1,0 +1,26 @@
+.EightBall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+    height: 650px;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+    margin-bottom: 3em;
+}
+
+.green {
+    background-color: green;
+    color: black;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    color: black;
+}
